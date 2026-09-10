@@ -1,0 +1,4 @@
+"customer_value_segment","customers","repeat_customers","non_repeat_customers","repeat_purchase_rate","avg_first_order_value"
+"Low Value",32472,1061,31411,3.27,49.68
+"Medium Value",31827,993,30834,3.12,108.71
+"High Value",31089,903,30186,2.90,330.94
